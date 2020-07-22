@@ -5,7 +5,7 @@ Bash script to calculate total length of all mp3 audios in seconds using `ffmpeg
 * Ubuntu 20.04 LTS
 
 ## 1. Install neccessary software
-Install `ffmpeg` and `bc` software:
+Install `ffmpeg` and `bc` software.
 ```
 $ sudo apt-get install ffmpeg bc
 ```
